@@ -16,7 +16,7 @@
 Here's the intended output of this script, once you fill it in:
 
 Welcome to shop1 fruit shop
-Welcome to shop2 fruit shop
+Welcome to shop2 fruit shop.
 For orders:  [('apples', 1.0), ('oranges', 3.0)] best shop is shop1
 For orders:  [('apples', 3.0)] best shop is shop2
 """
